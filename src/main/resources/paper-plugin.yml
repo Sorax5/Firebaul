@@ -1,0 +1,6 @@
+name: Firebaul
+version: '1.0-SNAPSHOT'
+main: fr.phylisium.firebaul.Firebaul
+api-version: '1.21'
+authors: [ soraxdubbing ]
+website: sorax5.github.com
